@@ -24,7 +24,7 @@
 
 
 <footer class="d-flex justify-content-center border-top mt-3 bg-light fixed-bottom">
-	<p>&copy; UKK RPL 2025 | Ibnu Ubaidillah</p>
+	<p>&copy; UKK RPL 2025 | Ageng Wicaksono</p>
 </footer>
 
 
